@@ -9,7 +9,7 @@ Notes:
 History:
 2015-11-26 meyersi created
 2016-09-13 chriz-bigdata rewrote to simplify and align with documentation
-
+tested for my personal work today, just awesome
 */
 SELECT SCHEMA schemaname,
        "table" tablename,
